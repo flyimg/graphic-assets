@@ -1,81 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="600px" height="900px" viewBox="0 0 600 900" enable-background="new 0 0 600 900" xml:space="preserve">
-<rect y="-663" fill="#FF0000" width="300" height="300"/>
-<rect x="300" y="-663" fill="#00FF00" width="300" height="300"/>
-<rect x="600" y="-663" fill="#0000FF" width="300" height="300"/>
-<rect y="-363" fill="#FFFF00" width="300" height="300"/>
-<rect x="300" y="-363" fill="#00FFFF" width="300" height="300"/>
-<rect x="600" y="-363" fill="#FF00FF" width="300" height="300"/>
+	 width="600px" height="600px" viewBox="0 0 600 600" enable-background="new 0 0 600 600" xml:space="preserve">
+<rect x="-1000" y="-1500" fill="#FF0000" width="300" height="300"/>
+<rect x="-700" y="-1500" fill="#00FF00" width="300" height="300"/>
+<rect x="-400" y="-1500" fill="#0000FF" width="300" height="300"/>
+<rect x="-1000" y="-1200" fill="#FFFF00" width="300" height="300"/>
+<rect x="-700" y="-1200" fill="#00FFFF" width="300" height="300"/>
+<rect x="-400" y="-1200" fill="#FF00FF" width="300" height="300"/>
 <g>
-	<circle fill="#808080" cx="300" cy="-363" r="75"/>
+	<circle fill="#808080" cx="-700" cy="-1200" r="75"/>
 </g>
 <g>
-	<circle fill="#808080" cx="600" cy="-363" r="75"/>
+	<circle fill="#808080" cx="-400" cy="-1200" r="75"/>
 </g>
-<rect x="225" y="-188" fill="#FFFFFF" width="450" height="30"/>
-<rect x="225" y="-188" width="75" height="30"/>
-<rect x="375" y="-188" width="75" height="30"/>
-<rect x="600" y="-188" fill="#FFFFFF" width="75" height="30"/>
-<rect x="525" y="-188" width="75" height="30"/>
-<rect x="0" y="0" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 300 2.756906e-12)" fill="#FF0000" width="300" height="300"/>
-<rect x="0" y="300" transform="matrix(3.369017e-15 1 -1 3.369017e-15 600 300)" fill="#00FF00" width="300" height="300"/>
-<rect x="0" y="600" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 900 600)" fill="#0000FF" width="300" height="300"/>
-<rect x="300" y="600" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -300 1200)" fill="#FFFF00" width="300" height="300"/>
-<rect x="300" y="300" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -3.637979e-12 900)" fill="#00FFFF" width="300" height="300"/>
-<rect x="300" transform="matrix(6.123234e-17 -1 1 6.123234e-17 300 600)" fill="#FF00FF" width="300" height="300"/>
+<rect x="-775" y="-1025" fill="#FFFFFF" width="450" height="30"/>
+<rect x="-775" y="-1025" width="75" height="30"/>
+<rect x="-625" y="-1025" width="75" height="30"/>
+<rect x="-400" y="-1025" fill="#FFFFFF" width="75" height="30"/>
+<rect x="-475" y="-1025" width="75" height="30"/>
+<rect x="-1000" y="-837" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 -1537.0332 162.9669)" fill="#FF0000" width="300" height="300"/>
+<rect x="-1000" y="-537" transform="matrix(3.369017e-15 1 -1 3.369017e-15 -1237.0332 462.9669)" fill="#00FF00" width="300" height="300"/>
+<rect x="0" y="-850" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 -550 -850)" fill="#FF0000" width="300" height="300"/>
+<rect x="0" y="-550" transform="matrix(6.033552e-15 1 -1 6.033552e-15 -250 -550)" fill="#00FF00" width="300" height="300"/>
+<rect x="-1000" y="-237" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 -937.0331 762.9669)" fill="#0000FF" width="300" height="300"/>
+<rect x="300" y="-850" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 -250 -1150)" fill="#0000FF" width="300" height="300"/>
+<rect x="-700" y="-237" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -462.9669 -637.0331)" fill="#FFFF00" width="300" height="300"/>
+<rect x="-700" y="-537" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -162.9669 -937.0331)" fill="#00FFFF" width="300" height="300"/>
+<rect x="-700" y="-837" transform="matrix(6.123234e-17 -1 1 6.123234e-17 137.0331 -1237.0332)" fill="#FF00FF" width="300" height="300"/>
 <g>
-	<circle fill="#808080" cx="300" cy="600" r="75"/>
+	<circle fill="#808080" cx="-700" cy="-237" r="75"/>
 </g>
 <g>
-	<circle fill="#808080" cx="300" cy="300" r="75"/>
+	<circle fill="#808080" cx="-700" cy="-537" r="75"/>
 </g>
-<rect x="75" y="775" fill="#FFFFFF" width="450" height="30"/>
-<rect x="75" y="775" width="75" height="30"/>
-<rect x="225" y="775" width="75" height="30"/>
-<rect x="450" y="775" fill="#FFFFFF" width="75" height="30"/>
-<rect x="375" y="775" width="75" height="30"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="512.5" y1="700" x2="512.5" y2="100">
+<rect x="-925" y="-62" fill="#FFFFFF" width="450" height="30"/>
+<rect x="-925" y="-62" width="75" height="30"/>
+<rect x="-775" y="-62" width="75" height="30"/>
+<rect x="-550" y="-62" fill="#FFFFFF" width="75" height="30"/>
+<rect x="-625" y="-62" width="75" height="30"/>
+<rect x="450" y="-550" fill="#FFFFFF" width="150" height="150"/>
+<rect x="300" y="-550" width="150" height="150"/>
+<rect x="300" y="-400" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 750 -650)" fill="#FFFFFF" width="150" height="150"/>
+<rect x="450" y="-400" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1050 -650)" width="150" height="150"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-487.5" y1="-137.0331" x2="-487.5" y2="-737.0331">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="0.2705" style="stop-color:#BEBEBE"/>
 	<stop  offset="0.8946" style="stop-color:#1C1C1C"/>
 	<stop  offset="1" style="stop-color:#000000"/>
 </linearGradient>
-<rect x="500" y="100" fill="url(#SVGID_1_)" width="25" height="600"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="462.5" y1="700" x2="462.5" y2="100">
+<rect x="-500" y="-737" fill="url(#SVGID_1_)" width="25" height="600"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-537.5" y1="-137.0331" x2="-537.5" y2="-737.0331">
 	<stop  offset="0" style="stop-color:#FF0000"/>
 	<stop  offset="0.2705" style="stop-color:#BE0041"/>
 	<stop  offset="0.8946" style="stop-color:#1C00E3"/>
 	<stop  offset="1" style="stop-color:#0000FF"/>
 </linearGradient>
-<rect x="450" y="100" fill="url(#SVGID_2_)" width="25" height="600"/>
-<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="487.5" y1="700" x2="487.5" y2="100">
+<rect x="-550" y="-737" fill="url(#SVGID_2_)" width="25" height="600"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-512.5" y1="-137.0331" x2="-512.5" y2="-737.0331">
 	<stop  offset="0" style="stop-color:#FFFF00"/>
 	<stop  offset="0.2705" style="stop-color:#FFBE41"/>
 	<stop  offset="0.8946" style="stop-color:#FF1CE3"/>
 	<stop  offset="1" style="stop-color:#FF00FF"/>
 </linearGradient>
-<rect x="475" y="100" fill="url(#SVGID_3_)" width="25" height="600"/>
-<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="812.5" y1="-162.9669" x2="812.5" y2="-562.9669">
+<rect x="-525" y="-737" fill="url(#SVGID_3_)" width="25" height="600"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-187.5" y1="-1000" x2="-187.5" y2="-1400">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
 	<stop  offset="0.2705" style="stop-color:#BEBEBE"/>
 	<stop  offset="0.8946" style="stop-color:#1C1C1C"/>
 	<stop  offset="1" style="stop-color:#000000"/>
 </linearGradient>
-<rect x="800" y="-563" fill="url(#SVGID_4_)" width="25" height="400"/>
-<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="762.5" y1="-162.9669" x2="762.5" y2="-562.9669">
+<rect x="-200" y="-1400" fill="url(#SVGID_4_)" width="25" height="400"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-237.5" y1="-1000" x2="-237.5" y2="-1400">
 	<stop  offset="0" style="stop-color:#FF0000"/>
 	<stop  offset="0.2705" style="stop-color:#BE0041"/>
 	<stop  offset="0.8946" style="stop-color:#1C00E3"/>
 	<stop  offset="1" style="stop-color:#0000FF"/>
 </linearGradient>
-<rect x="750" y="-563" fill="url(#SVGID_5_)" width="25" height="400"/>
-<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="787.5" y1="-562.9669" x2="787.5" y2="-162.9669">
+<rect x="-250" y="-1400" fill="url(#SVGID_5_)" width="25" height="400"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-212.5" y1="-1400" x2="-212.5" y2="-1000">
 	<stop  offset="0" style="stop-color:#FFFF00"/>
 	<stop  offset="0.2705" style="stop-color:#FFBE41"/>
 	<stop  offset="0.8946" style="stop-color:#FF1CE3"/>
 	<stop  offset="1" style="stop-color:#FF00FF"/>
 </linearGradient>
-<rect x="775" y="-563" fill="url(#SVGID_6_)" width="25" height="400"/>
+<rect x="-225" y="-1400" fill="url(#SVGID_6_)" width="25" height="400"/>
+<g>
+	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="229.2893" y1="-479.2893" x2="370.7107" y2="-620.7107">
+		<stop  offset="0" style="stop-color:#FFFF00"/>
+		<stop  offset="1" style="stop-color:#FF00FF"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_7_)" cx="300" cy="-550" r="100"/>
+</g>
+<g>
+	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="149.7398" y1="-399.7398" x2="450.2602" y2="-700.2602">
+		<stop  offset="0" style="stop-color:#FFFF00"/>
+		<stop  offset="1" style="stop-color:#FF00FF"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_8_)" cx="300" cy="-550" r="212.5"/>
+</g>
+<rect x="0" y="0" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 300 1.847411e-12)" fill="#FF0000" width="300" height="300"/>
+<rect x="0" y="300" transform="matrix(6.033552e-15 1 -1 6.033552e-15 600 300)" fill="#00FF00" width="300" height="300"/>
+<rect x="300" y="0" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 600 -300)" fill="#0000FF" width="300" height="300"/>
+<g>
+	<rect x="300" y="300" width="150" height="150"/>
+</g>
+<rect x="450" y="450" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1050 1050)" width="150" height="150"/>
+<g opacity="0.85">
+	<circle fill="#FFFFFF" cx="300" cy="300" r="150"/>
+</g>
 </svg>
